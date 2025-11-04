@@ -1,5 +1,6 @@
 # Application is live at ----------
-https://talk2data.mejuvante.ai/login.html
+https://talk2data.mejuvante.ai/
+
 
 # for testing 
 
