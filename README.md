@@ -1,10 +1,7 @@
 # Application is live at ----------
-https://talk2data.mejuvante.ai/login.html
+https://talk2data.mejuvante.ai/
 
-# for testing 
 
-username = rohan
-pass = rohan123
 
 steps to run this project 
 1) clone it = git clone "http url here"
