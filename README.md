@@ -3,7 +3,7 @@ https://talk2data.mejuvante.ai/
 
 
 
-steps to run this project 
+steps to run this project are here :  
 1) clone it = git clone "http url here"
 2) cd final-aws
 3) docker compose up -d --build  {make sure your docker engine is running}
